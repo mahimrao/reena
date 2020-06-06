@@ -30,7 +30,7 @@
   </dependencies>
 
   <build>
-    <finalName>reena2</finalName>
+    <finalName>mahim</finalName>
     <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
       <plugins>
         <plugin>
